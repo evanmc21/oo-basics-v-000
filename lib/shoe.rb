@@ -2,4 +2,5 @@
 class Shoe
   def initialize(Adidas)
     @Adidas = Adidas
+  end
 end
