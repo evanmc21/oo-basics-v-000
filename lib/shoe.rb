@@ -5,7 +5,7 @@ class Shoe
     @brand = brand
   end
   def brand
-    @brand = Nike
+    @Nike
   end
   def cobble
     puts "Your shoe is as good as new!"
